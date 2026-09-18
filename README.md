@@ -152,7 +152,7 @@
 
 ## 팀원 및 역할 👥
 
-### 김정현 🔗 [CodingKirby](https://github.com/CodingKirby)
+### 김정현 🔗 [Hyeon](https://github.com/hyeoniverse)
 - Readme.md 작성
 - **백엔드 연동 및 API 관리**
   - Axios를 사용한 백엔드와의 통신 기능 개발 및 Context를 통해 상태 관리, API 통신 오류 처리 및 데이터 유지 관리.
