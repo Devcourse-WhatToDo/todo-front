@@ -155,14 +155,14 @@
 ### 김정현 🔗 [CodingKirby](https://github.com/CodingKirby)
 - Readme.md 작성
 - **백엔드 연동 및 API 관리**
- - Axios를 사용한 백엔드와의 통신 기능 개발 및 Context를 통해 상태 관리, API 통신 오류 처리 및 데이터 유지 관리.
+  - Axios를 사용한 백엔드와의 통신 기능 개발 및 Context를 통해 상태 관리, API 통신 오류 처리 및 데이터 유지 관리.
 - **컴포넌트 배치 및 드래그 앤 드롭 기능 구현**
- - 각 컴포넌트 배치와 `react-beautiful-dnd`를 사용해 Task 및 SubTask의 순서 변경 기능 개발, 드래그 앤 드롭 UX 최적화.
+  - 각 컴포넌트 배치와 `react-beautiful-dnd`를 사용해 Task 및 SubTask의 순서 변경 기능 개발, 드래그 앤 드롭 UX 최적화.
 ### 윤혜원 🔗 [hyenee99](https://github.com/hyenee99)
 - **Task 관리 컴포넌트 개발**
- - 할 일(Task) 및 세부 할 일(SubTask) UI와 관련된 작업, 사용자가 쉽게 할 일을 추가하고 수정할 수 있는 기능 개발.
+  - 할 일(Task) 및 세부 할 일(SubTask) UI와 관련된 작업, 사용자가 쉽게 할 일을 추가하고 수정할 수 있는 기능 개발.
 ### 김재영 🔗 [jae-yon](https://github.com/jae-yon)
 - Figma 작성 및 UI 디자인
 - **공통 컴포넌트 개발**
- - 로그인/회원가입 모달 및 버튼, 입력 필드 등 공통 UI 컴포넌트 개발.
+  - 로그인/회원가입 모달 및 버튼, 입력 필드 등 공통 UI 컴포넌트 개발.
 ### 김바울 🔗 [freepaul-kor](https://github.com/freepaul-kor)
